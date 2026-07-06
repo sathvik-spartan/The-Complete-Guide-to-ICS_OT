@@ -65,7 +65,7 @@ Note that there's __NO__ need to have a strict prior OT experience as a requirem
 | 12     | Threat Hunting                |
 | 13     | OT Security Architecture      |
 | 14     | Governance, Risk & Compliance |
-| 15     | IIoT & Cloud                  |
+| 15     | IIoT(Industrial Internet of Things) & Cloud                  |
 | 16     | Career Development            |
 
 A detailed description of each module is available in `CURRICULUM.md`.
