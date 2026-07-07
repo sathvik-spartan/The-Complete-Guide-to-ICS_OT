@@ -72,57 +72,19 @@ A detailed description of each module is available in `CURRICULUM.md`.
 
 ---
 
-## Learning Paths
+# Recommended Reading
 
-The repository includes multiple learning paths tailored to different backgrounds.
+## Books
+- Industrial Network Security
+- Industrial Cybersecurity
+- Applied Cyber Security and the Smart Grid
+- Practical Industrial Cybersecurity
 
-* Student / Beginner
-* IT Professional → OT Security
-* Automation Engineer → OT Security
-* SOC Analyst → OT Security
-* Security Consultant
-* Self-Study
-
-See `LEARNING_PATHS.md` for recommended progression.
-
----
-
-## Repository Structure
-
-```text
-docs/
-curriculum/
-labs/
-projects/
-resources/
-standards/
-certifications/
-career/
-assets/
-```
-
-Each directory focuses on a specific aspect of the curriculum.
-
----
-
-## What Makes This Repository Different?
-
-This project is designed as a complete learning curriculum rather than a collection of links.
-
-Every module includes:
-
-* Learning objectives
-* Prerequisites
-* Estimated study time
-* Curated resources
-* Official documentation
-* Hands-on labs
-* Practical projects
-* Self-assessment questions
-* Interview preparation
-* Further reading
-
-The emphasis is on building practical knowledge through structured progression.
+## Standards
+- IEC 62443
+- NIST SP 800-82
+- ISA 99
+- NERC CIP Documentation
 
 ---
 
