@@ -239,7 +239,7 @@ A curated list of resources to accompany the OT/ICS Cybersecurity curriculum.
 
 ---
 
-# Module 15 – IIoT & Cloud
+# Module 15 – IIoT(Industrial Internet of Things) & Cloud
 
 ## Azure
 
