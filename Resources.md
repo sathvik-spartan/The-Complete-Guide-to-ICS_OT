@@ -357,6 +357,18 @@ A curated list of resources to accompany the OT/ICS Cybersecurity curriculum.
 
 ---
 
+# Capstone Projects
+
+- Build an OpenPLC-based OT lab.
+- Capture and analyze Modbus traffic using Wireshark.
+- Deploy Security Onion and monitor OT network traffic.
+- Create Sigma detection rules for ICS-related events.
+- Design an OT network following ISA/IEC 62443 principles.
+- Write an OT incident response playbook.
+- Perform a security assessment of an OpenPLC environment.
+
+---
+
 ## Notes
 
 - Prioritize official documentation where available.
