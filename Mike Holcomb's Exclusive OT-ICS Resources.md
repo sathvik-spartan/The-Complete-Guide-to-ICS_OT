@@ -6,5 +6,7 @@
 ## Book 2
 - [Getting Started in Industrial (ICS/OT) Cyber Security: For OT & Automation Professionals](https://www.mikeholcomb.com/_files/ugd/bcbe7a_8ff4758229e24625b090f14a41b64615.pdf)
 
-- --- 
+--- 
 
+## Introductory Resources 
+- [ICS/OT Intro Course Resources by utilsec](https://github.com/utilsec/ICS_OT_Intro_Course_Resources.git)
