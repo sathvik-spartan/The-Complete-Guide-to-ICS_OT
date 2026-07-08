@@ -14,17 +14,17 @@ A curated list of resources to accompany the OT/ICS Cybersecurity curriculum.
 
 ## Courses
 
-- Cisco Networking Academy (Free)
-  https://www.netacad.com/
+* Cisco Skills for All – Introduction to Cybersecurity (Free)
+  https://skillsforall.com/course/introduction-to-cybersecurity
 
-- Cisco Skills for All (Free)
-  https://skillsforall.com/
+* TryHackMe – Pre Security Learning Path (Freemium)
+  https://tryhackme.com/path/outline/presecurity
 
-- TryHackMe – Pre Security (Freemium)
-  https://tryhackme.com/
+* Microsoft Learn – Describe the Concepts of Security, Compliance, and Identity (SC-900) (Free)
+  https://learn.microsoft.com/training/paths/describe-concepts-of-security-compliance-and-identity/
 
-- Microsoft Learn (Free)
-  https://learn.microsoft.com/training/
+* Microsoft Learn – Azure Fundamentals (AZ-900 Learning Path) (Optional, Free)
+  https://learn.microsoft.com/training/paths/azure-fundamentals/
 
 ## Books
 
@@ -38,20 +38,22 @@ A curated list of resources to accompany the OT/ICS Cybersecurity curriculum.
 
 ## Courses
 
-- Cisco Networking Academy (Free)
-  https://www.netacad.com/
-
-- Cisco Skills for All (Free)
-  https://skillsforall.com/
+* Cisco Skills for All – Networking Basics (Free)
+  https://skillsforall.com/course/networking-basics
 
 ## Reading
 
-- Practical Networking (Free)
+* Practical Networking – Networking Fundamentals (Free)
   https://www.practicalnetworking.net/
 
 ## Book
 
 - Computer Networking: A Top-Down Approach (Kurose & Ross) (Paid)
+
+## Practical Simulation
+
+* Cisco Packet Tracer
+  https://www.netacad.com/cisco-packet-tracer
 
 ---
 
@@ -59,15 +61,24 @@ A curated list of resources to accompany the OT/ICS Cybersecurity curriculum.
 
 ## Linux
 
-- How Linux Works (Brian Ward) (Paid)
+* How Linux Works (Brian Ward) (Paid)
 
-- OverTheWire Bandit (Free)
+* OverTheWire – Bandit (Free)
   https://overthewire.org/wargames/bandit/
+
+* TryHackMe – Linux Fundamentals (Part 1, 2 & 3) (Freemium)
+  https://tryhackme.com/module/linux-fundamentals
 
 ## Windows
 
-- Microsoft Learn (Free)
-  https://learn.microsoft.com/training/
+* Microsoft Learn – Windows Command Line (Free)
+  https://learn.microsoft.com/training/modules/get-started-with-windows-command-line/
+
+* Microsoft Learn – Manage Files, Folders, and Paths Using PowerShell (Free)
+  https://learn.microsoft.com/training/modules/manage-files-folders-paths-powershell/
+
+* Microsoft Learn – Introduction to PowerShell (Free)
+  https://learn.microsoft.com/training/modules/introduction-to-powershell/
 
 ---
 
@@ -75,29 +86,46 @@ A curated list of resources to accompany the OT/ICS Cybersecurity curriculum.
 
 ## Python
 
-- freeCodeCamp (Free)
-  https://www.freecodecamp.org/
+* freeCodeCamp – Scientific Computing with Python Certification (Free)
+  https://www.freecodecamp.org/learn/scientific-computing-with-python/
 
-- Automate the Boring Stuff with Python (Free)
+  __OR__
+
+* freeCodeCamp - 4 Hours Python Tutorial
+  https://youtu.be/eWRfhZUzrAc?si=IrFUAlxhYjaQzzLT
+
+* Automate the Boring Stuff with Python (Free)
   https://automatetheboringstuff.com/
 
-- Real Python (Free/Freemium)
-  https://realpython.com/
+* Real Python – Python Basics Learning Path (Free/Freemium)
+  https://realpython.com/learning-paths/python-basics/
 
 ---
 
 # Module 5 – Industrial Automation
 
-## Resources
+## Courses
 
-- Lessons in Industrial Instrumentation (Free)
-  https://www.ibiblio.org/kuphaldt/socratic/sinst/doc/liii.html
+* Lessons in Industrial Instrumentation by Tony R. Kuphaldt (Free)
+  https://www.ibiblio.org/kuphaldt/socratic/sinst/
 
-- RealPars (Freemium)
-  https://realpars.com/
+* RealPars – PLC Programming for Beginners (Freemium)
+  https://realpars.com/course/plc-programming-for-beginners/
 
-- InstrumentationTools (Free)
-  https://instrumentationtools.com/
+* RealPars – Industrial Communication Protocols (Freemium)
+  https://realpars.com/course/industrial-communication-protocols/
+
+## Reading
+
+* InstrumentationTools – PLC Tutorials (Free)
+  https://instrumentationtools.com/category/plc/
+
+* InstrumentationTools – SCADA Tutorials (Free)
+  https://instrumentationtools.com/category/scada/
+
+* InstrumentationTools – Industrial Communication Protocol Tutorials (Free)
+  https://instrumentationtools.com/category/industrial-communication/
+
 
 ---
 
@@ -105,14 +133,21 @@ A curated list of resources to accompany the OT/ICS Cybersecurity curriculum.
 
 ## Documentation
 
-- CISA Industrial Control Systems (Free)
+* CISA – Introduction to Control Systems Cybersecurity (101) (Free)
+  https://www.cisa.gov/resources-tools/training/introduction-control-systems-cybersecurity-101
+
+* CISA – Industrial Control Systems (ICS) Resources (Free)
   https://www.cisa.gov/topics/industrial-control-systems
+
+* CISA – ICS Recommended Practices (Free)
+  https://www.cisa.gov/resources-tools/resources/ics-recommended-practices
 
 ## Books
 
-- Practical Industrial Cybersecurity — Pascal Ackerman (Paid)
+* Practical Industrial Cybersecurity — Pascal Ackerman (Paid)
 
-- Industrial Network Security — Eric D. Knapp (Paid)
+* Industrial Network Security — Eric D. Knapp (Paid)
+
 
 ---
 
@@ -120,16 +155,19 @@ A curated list of resources to accompany the OT/ICS Cybersecurity curriculum.
 
 ## Vendor Training
 
-- Siemens SITRAIN (Paid)
+* Siemens SITRAIN – Industrial Communication in Automation (Paid)
   https://www.siemens.com/global/en/products/services/learning-services.html
 
-- Phoenix Contact (Free/Paid)
-  https://www.phoenixcontact.com/
+* Phoenix Contact – PLCnext Technology Training (Free/Paid)
+  https://www.phoenixcontact.com/plcnext
 
 ## Practice
 
-- Wireshark (Free)
-  https://www.wireshark.org/
+* Wireshark – Official User Guide & Documentation (Free)
+  https://www.wireshark.org/docs/
+
+* Wireshark – Sample Captures (Free)
+  https://wiki.wireshark.org/SampleCaptures
 
 ---
 
@@ -137,18 +175,27 @@ A curated list of resources to accompany the OT/ICS Cybersecurity curriculum.
 
 ## Documentation
 
-- Modbus Organization (Free)
-  https://modbus.org/
+* Modbus Organization – Modbus Protocol Specifications (Free)
+  https://modbus.org/specs.php
+
+* Open Platform Communications (OPC) Foundation – OPC UA Overview (Free)
+  https://opcfoundation.org/about/opc-technologies/opc-ua/
 
 ## PLC Simulation
 
-- OpenPLC Project (Free)
+* OpenPLC Project – OpenPLC Runtime & Editor (Free)
   https://www.openplcproject.com/
+
+* OpenPLC Project – Documentation (Free)
+  https://autonomylogic.com/docs/
 
 ## Packet Analysis
 
-- Wireshark (Free)
-  https://www.wireshark.org/
+* Wireshark – Official User Guide & Documentation (Free)
+  https://www.wireshark.org/docs/
+
+* Wireshark – Sample Captures (Free)
+  https://wiki.wireshark.org/SampleCaptures
 
 ---
 
@@ -156,17 +203,23 @@ A curated list of resources to accompany the OT/ICS Cybersecurity curriculum.
 
 ## Frameworks
 
-- MITRE ATT&CK for ICS (Free)
+* MITRE ATT&CK for ICS (Free)
   https://attack.mitre.org/matrices/ics/
 
-- CISA Industrial Control Systems (Free)
+* CISA – Industrial Control Systems (ICS) Resources (Free)
   https://www.cisa.gov/topics/industrial-control-systems
+
+* CISA – ICS Recommended Practices (Free)
+  https://www.cisa.gov/resources-tools/resources/ics-recommended-practices
+
+* CISA – Introduction to Control Systems Cybersecurity (101) (Free)
+  https://www.cisa.gov/resources-tools/training/introduction-control-systems-cybersecurity-101
 
 ## Books
 
-- Practical Industrial Cybersecurity — Pascal Ackerman (Paid)
+* Practical Industrial Cybersecurity — Pascal Ackerman (Paid)
 
-- Industrial Cybersecurity — Pascal Ackerman (Paid)
+* Industrial Cybersecurity — Pascal Ackerman (Paid)
 
 ---
 
@@ -174,16 +227,22 @@ A curated list of resources to accompany the OT/ICS Cybersecurity curriculum.
 
 ## Detection Rules
 
-- SigmaHQ (Free)
+* SigmaHQ – Sigma Rule Specification & Rule Repository (Free)
   https://sigmahq.io/
+
+* SigmaHQ – Official GitHub Repository (Free)
+  https://github.com/SigmaHQ/sigma
 
 ## SIEM
 
-- Splunk Education (Free/Freemium)
+* Splunk Education – Splunk Fundamentals 1 (Free)
   https://education.splunk.com/
 
-- Elastic Training (Free/Freemium)
+* Elastic Training – Elastic Security for SIEM (Free/Freemium)
   https://www.elastic.co/training
+
+* Microsoft Learn – Describe the Capabilities of Microsoft Sentinel (Free)
+  https://learn.microsoft.com/training/modules/describe-capabilities-of-microsoft-sentinel/
 
 ---
 
@@ -191,11 +250,17 @@ A curated list of resources to accompany the OT/ICS Cybersecurity curriculum.
 
 ## References
 
-- SANS Reading Room (Free)
+* CISA – Cyber Incident Response Resources (Free)
+  https://www.cisa.gov/resources-tools/services/incident-response
+
+* CISA – Incident Response Playbooks (Free)
+  https://www.cisa.gov/resources-tools/resources/federal-government-cybersecurity-incident-and-vulnerability-response-playbooks
+
+* SANS Reading Room – Incident Response Papers (Free)
   https://www.sans.org/white-papers/
 
-- CISA Resources (Free)
-  https://www.cisa.gov/resources-tools
+* Microsoft Learn – Introduction to Microsoft Security Operations Analyst (SC-200) (Free)
+  https://learn.microsoft.com/training/paths/sc-200-analyze-threats-use-microsoft-sentinel/
 
 ---
 
@@ -203,11 +268,17 @@ A curated list of resources to accompany the OT/ICS Cybersecurity curriculum.
 
 ## Resources
 
-- Threat Hunter Playbook (Free)
+* Threat Hunter Playbook – Hunting Playbooks (Free)
   https://threathunterplaybook.com/
 
-- MITRE ATT&CK (Free)
-  https://attack.mitre.org/
+* MITRE ATT&CK – Enterprise Matrix (Free)
+  https://attack.mitre.org/matrices/enterprise/
+
+* MITRE ATT&CK – ICS Matrix (Free)
+  https://attack.mitre.org/matrices/ics/
+
+* Microsoft Learn – Hunt for Threats Using Microsoft Sentinel (Free)
+  https://learn.microsoft.com/training/modules/hunt-threats-sentinel/
 
 ---
 
@@ -215,12 +286,20 @@ A curated list of resources to accompany the OT/ICS Cybersecurity curriculum.
 
 ## Standards
 
-- ISA/IEC 62443 (Free Overview)
+* ISA – ISA/IEC 62443 Series of Standards (Free Overview)
   https://www.isa.org/standards-and-publications/isa-standards/isa-iec-62443-series-of-standards
 
-## Book
+* CISA – Cross-Sector Cybersecurity Performance Goals (CPGs) (Free)
+  https://www.cisa.gov/cross-sector-cybersecurity-performance-goals
 
-- Industrial Network Security — Eric D. Knapp (Paid)
+* CISA – Secure by Design (Free)
+  https://www.cisa.gov/securebydesign
+
+## Books
+
+* Industrial Network Security — Eric D. Knapp (Paid)
+
+* Practical Industrial Cybersecurity — Pascal Ackerman (Paid)
 
 ---
 
@@ -228,33 +307,48 @@ A curated list of resources to accompany the OT/ICS Cybersecurity curriculum.
 
 ## Standards
 
-- NIST Cybersecurity Framework (Free)
+* NIST Cybersecurity Framework (CSF) 2.0 (Free)
   https://www.nist.gov/cyberframework
 
-- NIST SP 800-82 Rev. 3 (Free)
+* NIST SP 800-82 Rev. 3 – Guide to Operational Technology (OT) Security (Free)
   https://csrc.nist.gov/publications/detail/sp/800-82/rev-3/final
 
-- CISA Cross-Sector Cybersecurity Performance Goals (Free)
+* NIST SP 800-61 Rev. 2 – Computer Security Incident Handling Guide (Free)
+  https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final
+
+* CISA – Cross-Sector Cybersecurity Performance Goals (CPGs) (Free)
   https://www.cisa.gov/cross-sector-cybersecurity-performance-goals
+
+* ISA – ISA/IEC 62443 Series of Standards (Free Overview)
+  https://www.isa.org/standards-and-publications/isa-standards/isa-iec-62443-series-of-standards
 
 ---
 
-# Module 15 – IIoT(Industrial Internet of Things) & Cloud
+# Module 15 – IIoT (Industrial Internet of Things) & Cloud
 
 ## Azure
 
-- Microsoft Learn (Free)
-  https://learn.microsoft.com/training/
+* Microsoft Learn – Azure Fundamentals (AZ-900 Learning Path) (Free)
+  https://learn.microsoft.com/training/paths/azure-fundamentals/
+
+* Microsoft Learn – Introduction to Azure IoT (Free)
+  https://learn.microsoft.com/training/modules/intro-to-azure-iot/
 
 ## AWS
 
-- AWS Skill Builder (Free)
-  https://skillbuilder.aws/
+* AWS Skill Builder – AWS Cloud Practitioner Essentials (Free)
+  https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials
+
+* AWS Skill Builder – Introduction to AWS IoT Core (Free)
+  https://explore.skillbuilder.aws/learn
 
 ## MQTT
 
-- HiveMQ MQTT Essentials (Free)
+* HiveMQ – MQTT Essentials (Free)
   https://www.hivemq.com/mqtt-essentials/
+
+* HiveMQ – MQTT Essentials: Part 1 – Introducing MQTT (Free)
+  https://www.hivemq.com/blog/mqtt-essentials-part-1-introducing-mqtt/
 
 ---
 
@@ -262,14 +356,22 @@ A curated list of resources to accompany the OT/ICS Cybersecurity curriculum.
 
 ## Communities
 
-- ICS Village (Free)
+* ICS Village (Free)
   https://www.icsvillage.com/
 
-- SANS ICS (Free)
-  https://www.sans.org/industrial-control-systems-security/
+* SANS – Industrial Control Systems (ICS) Security (Free Resources)
+  https://www.sans.org/cybersecurity-focus-areas/industrial-control-systems-security/
 
-- CISA ICS Training (Free)
+* CISA – ICS Training & Exercises (Free)
   https://www.cisa.gov/topics/industrial-control-systems/training-and-exercises
+
+## Professional Development
+
+* MITRE ATT&CK for ICS (Free)
+  https://attack.mitre.org/matrices/ics/
+
+* CISA – Industrial Control Systems (ICS) Resources (Free)
+  https://www.cisa.gov/topics/industrial-control-systems
 
 ---
 
@@ -277,51 +379,69 @@ A curated list of resources to accompany the OT/ICS Cybersecurity curriculum.
 
 ## PLC & Industrial Simulation
 
-- OpenPLC (Free)
+* OpenPLC Project – Runtime & Editor (Free)
   https://www.openplcproject.com/
 
-- Factory I/O (Paid)
+* OpenPLC Documentation (Free)
+  https://autonomylogic.com/docs/
+
+* Factory I/O (Paid)
   https://factoryio.com/
 
 ## Packet Analysis
 
-- Wireshark (Free)
-  https://www.wireshark.org/
+* Wireshark – Official User Guide & Documentation (Free)
+  https://www.wireshark.org/docs/
+
+* Wireshark – Sample Captures (Free)
+  https://wiki.wireshark.org/SampleCaptures
 
 ## Detection & Monitoring
 
-- Security Onion (Free)
-  https://securityonionsolutions.com/
+* Security Onion – Documentation (Free)
+  https://docs.securityonion.net/
 
-- Zeek (Free)
-  https://zeek.org/
+* Zeek – Documentation (Free)
+  https://docs.zeek.org/
 
-- Snort (Free)
-  https://www.snort.org/
+* Snort – Official Documentation (Free)
+  https://docs.snort.org/
 
-- Suricata (Free)
-  https://suricata.io/
+* Suricata – Documentation (Free)
+  https://docs.suricata.io/
 
 ## Vulnerability Assessment
 
-- Greenbone/OpenVAS (Free)
-  https://www.greenbone.net/
+* Greenbone Community Edition (OpenVAS) (Free)
+  https://greenbone.github.io/docs/latest/
+
+* Greenbone Community Containers (Free)
+  https://greenbone.github.io/docs/latest/22.4/container/index.html
 
 ---
 
 # Essential Standards
 
-- NIST SP 800-82 Rev. 3
+* NIST SP 800-82 Rev. 3 – Guide to Operational Technology (OT) Security (Free)
   https://csrc.nist.gov/publications/detail/sp/800-82/rev-3/final
 
-- MITRE ATT&CK for ICS
+* NIST Cybersecurity Framework (CSF) 2.0 (Free)
+  https://www.nist.gov/cyberframework
+
+* MITRE ATT&CK for ICS (Free)
   https://attack.mitre.org/matrices/ics/
 
-- ISA/IEC 62443
+* ISA – ISA/IEC 62443 Series of Standards (Free Overview)
   https://www.isa.org/standards-and-publications/isa-standards/isa-iec-62443-series-of-standards
 
-- CISA Industrial Control Systems
+* CISA – Industrial Control Systems (ICS) Resources (Free)
   https://www.cisa.gov/topics/industrial-control-systems
+
+* CISA – Cross-Sector Cybersecurity Performance Goals (CPGs) (Free)
+  https://www.cisa.gov/cross-sector-cybersecurity-performance-goals
+
+* NIST SP 800-61 Rev. 2 – Computer Security Incident Handling Guide (Free) *(Recommended)*
+  https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final
 
 ---
 
