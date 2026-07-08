@@ -126,25 +126,3 @@ Before contributing, please read:
 All contributions should align with the project's goals of accuracy, clarity, and educational value.
 
 ---
-
-## Disclaimer
-
-This repository is intended for educational and defensive cybersecurity purposes.
-
-The information provided should only be used in authorized environments and in accordance with applicable laws, regulations, and organizational policies.
-
----
-
-## License
-
-This project is licensed under the MIT License unless otherwise stated.
-
-See the `LICENSE` file for details.
-
----
-
-## Acknowledgements
-
-This curriculum builds upon the work of educators, researchers, standards organizations, open-source contributors, and the global OT/ICS cybersecurity community.
-
-Their publications, research, and educational resources have made this project possible.
