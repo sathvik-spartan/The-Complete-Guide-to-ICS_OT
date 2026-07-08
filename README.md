@@ -112,17 +112,3 @@ The curriculum structure has been defined, and individual modules will be expand
 Contributions and constructive feedback are welcome.
 
 ---
-
-## Contributing
-
-Community contributions are encouraged.
-
-Before contributing, please read:
-
-* `CONTRIBUTING.md`
-* `STYLE_GUIDE.md`
-* `CODE_OF_CONDUCT.md`
-
-All contributions should align with the project's goals of accuracy, clarity, and educational value.
-
----
