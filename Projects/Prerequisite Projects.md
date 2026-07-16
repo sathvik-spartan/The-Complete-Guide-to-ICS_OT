@@ -1,4 +1,4 @@
-# Here's a peek at the first few projects to get you started:
+# Pre-requisite Project to help you get started with the 50 projects:
 
 ## 1. Hack Your First PLC
 
@@ -8,9 +8,9 @@ It isn't something you'll forget.
 
 And you'll carry it with you throughout the rest of your career.
 
-Find my free virtual environment with instructions here:
+Find Mike Holcomb's free virtual environment with instructions here: https://lnkd.in/ed-Edien
 
-https://lnkd.in/ed-Edien
+Free downloadable LAB resources : https://drive.google.com/drive/folders/1Aif9Y55hylhKGPTJEbx3xqTF-kuX0jmW
 
 ---
 
@@ -18,15 +18,17 @@ https://lnkd.in/ed-Edien
 
 Everyone has an idea of a tool they'd love to have.
 
-Whether in OT. IT. Or their personal lives.
+Whether in OT, IT  or in their personal lives.
 
-Use GenAI to create your own.
+Leverage GenAI to create your own.
 
 Including tools for security testing and simulating OT environments.
 
-Get started with this video:
+Get started with this video: https://www.youtube.com/watch?v=AvkxExGH3ds
 
-https://lnkd.in/ebiidVry
+Other Related Resources : 
+- The automayt GitHub Repository:  https://github.com/automayt/ICS-pcap
+- The NETRESEC PCAP Files:  https://www.netresec.com/?page=PcapFiles
 
 ---
 
@@ -36,9 +38,7 @@ Understanding how the most common OT asset works is critical.
 
 While it's strange at first, you can get a good feel for virtual ones.
 
-Check out the OpenPLC Project at:
-
-https://lnkd.in/eCJTN8DC
+Check out the OpenPLC Project at: [Autonomy Logic](https://autonomylogic.com/)
 
 ---
 
@@ -50,13 +50,9 @@ Whether on purpose or by accident.
 
 So it's good that we find them first before the attackers do.
 
-Check out Shodan at:
+Check out Shodan at: https://shodan.io
 
-https://shodan.io
-
-And here's a video to get you started:
-
-https://lnkd.in/eQgJ-xKa
+And here's a video to get you started: [Using Shodan to Find ICS/OT (& IT) Assets](https://www.youtube.com/watch?v=LOVN9J-UJI4)
 
 ---
 
@@ -72,6 +68,4 @@ Learn how to defend OT.
 
 All within this virtual platform running in Docker.
 
-Get started with Labshock at:
-
-https://lnkd.in/eZGfyj74
+Get started with Labshock at: https://github.com/zakharb/labshock
