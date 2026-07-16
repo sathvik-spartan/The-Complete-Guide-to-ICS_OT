@@ -1,4 +1,4 @@
-# Pre-requisite Projects to help you get started with the 50 projects:
+# Pre-requisite Projects to help you get started with the 50+ projects:
 
 ## 1. Hack Your First PLC
 
