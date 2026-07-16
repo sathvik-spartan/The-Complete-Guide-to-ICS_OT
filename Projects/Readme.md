@@ -2,6 +2,11 @@
 DISCLAIMER : This directory (Projects) entire inspiration falls upon Mike Holcomb's contribution towards OT/ICS.
 ```
 
+# Important
+
+Note : Before starting with these projects, please make sure to check out the prerequisite projects to help you get started : [Projects/Prerequisite_Projects.md](https://github.com/sathvik-spartan/The-Complete-Guide-to-ICS_OT/blob/main/Projects/Prerequisite_Projects.md)
+
+---
 
 # Top 50+ Projects for Learning OT Cybersecurity
 
