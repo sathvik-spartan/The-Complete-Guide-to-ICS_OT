@@ -4,7 +4,7 @@ DISCLAIMER : This directory (Projects) entire inspiration falls upon Mike Holcom
 
 # Important
 
-Note : Before starting with these projects, please make sure to check out the prerequisite projects to help you get started : [Projects/Prerequisite_Projects.md](https://github.com/sathvik-spartan/The-Complete-Guide-to-ICS_OT/blob/main/Projects/Prerequisite_Projects.md)
+Note : Before starting with these projects, please make sure to check out the prerequisite projects to help you get started : [Pre-requisite Projects](https://github.com/sathvik-spartan/The-Complete-Guide-to-ICS_OT/blob/main/Projects/Prerequisite_Projects.md)
 
 ---
 
