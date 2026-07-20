@@ -1,9 +1,7 @@
-# OT/ICS Cybersecurity Roadmap 
-
-> A free, open-source, vendor-neutral curriculum for learning Operational Technology (OT) and Industrial Control Systems (ICS) Cybersecurity.
+# OT/ICS Security Roadmap
+> A curated roadmap with **free** resources to learn Operational Technology (OT) and Industrial Control System (ICS) Security from beginner to practitioner.
 
 ---
-
 ## Overview
 
 This **OT/ICS Cybersecurity Roadmap** is a structured learning curriculum designed to guide learners from foundational IT concepts to advanced OT cybersecurity topics.
@@ -11,18 +9,6 @@ This **OT/ICS Cybersecurity Roadmap** is a structured learning curriculum design
 Unlike traditional "awesome" lists or collections of resources, this repository provides a guided learning path with curated references, hands-on laboratories, projects, self-assessments, and career guidance.
 
 Whether you are a student, an IT professional transitioning into OT, or an experienced automation engineer looking to specialize in cybersecurity, this repository aims to provide a clear and practical roadmap.
-
----
-
-## Objectives
-
-This repository aims to help learners answer five fundamental questions:
-
-* What should I learn?
-* In what order should I learn it?
-* Where should I learn it?
-* How do I practice it?
-* How do I demonstrate my knowledge?
 
 ---
 
@@ -47,28 +33,370 @@ Note that there's __NO__ need to have a strict prior OT experience as a requirem
 
 ---
 
-## Curriculum
+# Prerequisites
 
-| Module | Topic                         |
-| ------ | ----------------------------- |
-| 1      | Foundations                   |
-| 2      | Networking                    |
-| 3      | Operating Systems             |
-| 4      | Programming                   |
-| 5      | Industrial Automation         |
-| 6      | Industrial Control Systems    |
-| 7      | Industrial Networking         |
-| 8      | Industrial Protocols          |
-| 9      | ICS Security                  |
-| 10     | Detection Engineering         |
-| 11     | Incident Response             |
-| 12     | Threat Hunting                |
-| 13     | OT Security Architecture      |
-| 14     | Governance, Risk & Compliance |
-| 15     | IIoT(Industrial Internet of Things) & Cloud                  |
-| 16     | Career Development            |
+Before diving into OT Security, have a basic understanding of:
 
-A detailed description of each module is available in `CURRICULUM.md`.
+- Computer Networking
+- Linux
+- Windows
+- Python (basic scripting)
+- Virtual Machines
+- Git & GitHub
+
+## Free Resources
+
+### Networking
+- Cisco Skills for All
+- Practical Networking (YouTube)
+
+### Linux
+- Linux Journey
+- OverTheWire: Bandit
+
+### Python
+- Automate the Boring Stuff
+- Python Official Tutorial
+
+---
+
+# Phase 1 — OT & ICS Fundamentals
+
+## Learn
+
+- IT vs OT
+- ICS Overview
+- PLC
+- SCADA
+- DCS
+- RTU
+- HMI
+- Sensors
+- Actuators
+- Purdue Model
+
+## Resources
+
+- Mike Holcomb (YouTube)
+- RealPars
+- mySCADA
+- CISA ICS 101
+- NIST SP 800-82 (Introduction)
+
+---
+
+# Phase 2 — Industrial Networking
+
+## Learn
+
+- Ethernet
+- TCP/IP
+- VLANs
+- Switching
+- Routing
+- Firewalls
+- DMZ
+- Industrial Ethernet
+
+## Resources
+
+- Cisco Skills for All
+- Practical Networking
+- Wireshark Documentation
+
+---
+
+# Phase 3 — Industrial Protocols
+
+## Learn
+
+- Modbus RTU
+- Modbus TCP
+- EtherNet/IP
+- DNP3
+- OPC UA
+- PROFINET
+- IEC 61850 (Basics)
+
+## Resources
+
+- Modbus.org
+- Wireshark
+- Vendor Documentation
+
+---
+
+# Phase 4 — PLC Programming
+
+## Learn
+
+- PLC Scan Cycle
+- Ladder Logic
+- Structured Text
+- Function Block Diagram
+- Timers
+- Counters
+
+## Practice
+
+- OpenPLC
+- CODESYS
+
+## Resources
+
+- RealPars PLC Playlist
+- SolisPLC
+
+---
+
+# Phase 5 — SCADA
+
+## Learn
+
+- HMI
+- Historian
+- Alarm Management
+- SCADA Servers
+
+## Practice
+
+- ScadaBR
+- OpenSCADA
+- Ignition Community Edition
+
+---
+
+# Phase 6 — Vendor Ecosystem
+
+Learn how real industrial environments look.
+
+## Vendors
+
+- Siemens
+- Rockwell Automation
+- Schneider Electric
+- Beckhoff
+- Phoenix Contact
+
+Read:
+
+- Manuals
+- PLC Documentation
+- Programming Guides
+- Architecture Guides
+
+---
+
+# Phase 7 — OT Cybersecurity
+
+## Learn
+
+- Defense in Depth
+- Purdue Model
+- Zones & Conduits
+- Network Segmentation
+- Asset Inventory
+- Risk Assessment
+- Secure Remote Access
+
+## Resources
+
+- NIST SP 800-82
+- MITRE ATT&CK for ICS
+- CISA ICS Guidance
+- Dragos Blog
+- Nozomi Networks Blog
+- Claroty Blog
+
+---
+
+# Phase 8 — Threat Landscape
+
+Study
+
+- Stuxnet
+- TRITON
+- Industroyer
+- BlackEnergy
+- Havex
+- Pipedream
+- Ukraine Power Grid
+- Colonial Pipeline
+
+## Resources
+
+- Dragos Year in Review
+- CISA Advisories
+- MITRE ATT&CK for ICS
+
+---
+
+# Phase 9 — Detection & Monitoring
+
+## Learn
+
+- Passive Monitoring
+- Asset Discovery
+- IDS
+- Network Baselines
+- Packet Analysis
+
+## Tools
+
+- Wireshark
+- Zeek
+- Security Onion
+- Suricata
+- Snort
+
+---
+
+# Phase 10 — Build Your OT Lab
+
+## Virtual Machines
+
+- Kali Linux
+- Ubuntu
+- Windows
+
+## Software
+
+- OpenPLC
+- CODESYS
+- ScadaBR
+- Wireshark
+- Security Onion
+- VirtualBox
+
+## Labs
+
+- PLC Programming
+- Modbus Traffic
+- Packet Analysis
+- SCADA Communications
+- Network Segmentation
+
+---
+
+# Phase 11 — Incident Response
+
+## Learn
+
+- OT Incident Response
+- Forensics
+- Recovery
+- Safety
+- Engineering Coordination
+
+## Resources
+
+- SANS ICS Blog
+- CISA Playbooks
+- Dragos Reports
+
+---
+
+# Phase 12 — Standards & Frameworks
+
+Read
+
+- NIST SP 800-82
+- ISA/IEC 62443 (Overview)
+- MITRE ATT&CK for ICS
+- Purdue Model
+- CISA Recommended Practices
+
+---
+
+# Phase 13 — Community
+
+Stay current.
+
+## Follow
+
+- Mike Holcomb
+- Dragos
+- SANS ICS
+- CISA ICS
+- MITRE ATT&CK
+- Nozomi Networks
+- Claroty
+- RealPars
+- ICS Village
+
+---
+
+# Hands-on Platforms
+
+- OpenPLC
+- CODESYS
+- ScadaBR
+- OpenSCADA
+- Wireshark
+- Security Onion
+- Zeek
+- Suricata
+- Snort
+- Cisco Packet Tracer
+- VirtualBox
+
+---
+
+# Suggested Learning Order
+
+- [ ] Networking
+- [ ] Linux
+- [ ] Python
+- [ ] OT Fundamentals
+- [ ] Industrial Networking
+- [ ] Industrial Protocols
+- [ ] PLC Programming
+- [ ] SCADA
+- [ ] Vendor Documentation
+- [ ] OT Cybersecurity
+- [ ] Detection & Monitoring
+- [ ] Build a Lab
+- [ ] Study Threat Actors
+- [ ] Incident Response
+- [ ] Standards
+
+---
+
+# Beginner Projects
+
+- Build an OpenPLC Lab
+- Capture Modbus Packets with Wireshark
+- Decode Industrial Protocols
+- Write a Simple Ladder Logic Program
+- Configure a SCADA Dashboard
+- Create an OT Asset Inventory
+- Build a Purdue Model Diagram
+- Detect Modbus Traffic with Zeek
+- Create Suricata Rules for OT Traffic
+- Document an ICS Incident Response Plan
+
+---
+
+# Advanced Projects
+
+- Simulate a Water Treatment Plant
+- Simulate a Manufacturing Line
+- Build an OT SOC Lab
+- Map Real Incidents to MITRE ATT&CK for ICS
+- Write Detection Rules
+- Build Network Segmentation
+- Perform Passive Asset Discovery
+- Analyze PCAP Files
+
+---
+
+# Certifications (Optional)
+
+- ISA Cybersecurity Certificates
+- SANS ICS Courses (if employer-sponsored)
+- Cisco CCNA
+- CompTIA Security+
+- GIAC GICSP
 
 ---
 
@@ -85,21 +413,6 @@ A detailed description of each module is available in `CURRICULUM.md`.
 - NIST SP 800-82
 - ISA 99
 - NERC CIP Documentation
-
----
-
-## Learning Philosophy
-
-The recommended learning process for each module is:
-
-1. Understand the concepts.
-2. Read the official documentation.
-3. Complete the recommended labs.
-4. Build the suggested project.
-5. Complete the self-assessment.
-6. Continue to the next module.
-
-The goal is to develop practical skills, not simply complete a reading list.
 
 ---
 
